@@ -1,0 +1,900 @@
+Pathway,Pathway Description,Competency Cluster,Competency Cluster Description,Competency,Competency Description,Competency Required Level,Competency Assessment,Competency Attainment Score,Competency Level,Competency Level Description,Competency Level Type,Competency Level Content
+Aspire  Platform,Learn how to use the Aspire  competency-based upskilling platform.,Aspire  Foundation,,Competency Components,Describe & define competency components.,Knowledge,a4g65sa43sdg56b4383rs1,,Define competency,,Knowledge,"<h2>Define Competency</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about competencies. By the end of the section, you should be able to define what competency is and its primary components.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Read the following text about competencies:</p>
+<p>Aspire  Ability <span style=""font-weight: 400;"">defines a competency as an area of capability. While the granularity of a competency is flexible (and the subject of much debate), our rule of thumb is that a competency generally manifests as a bullet-pointed item on a job description.</span></p>
+<p>Competencies are the foundational elements of what allows a person to perform in a job or complete a task.</p>
+<p>Competencies are made up of three components: Knowledge, Skill, and Ability. Information about Knowledge, Skill, and Ability, or (KSAs), can be found in the ""Define Knowledge, Skill, &amp; Ability"" learning activity.</p>
+<h3>Review</h3>
+<p>You should now be able to define what a competency is and where it fits, particularly in relation to doing a job.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>If you have not already done so, go through the ""Define Knowledge, Skill, &amp; Ability"" learning activity to deepen your understanding of the foundational elements of a competency.</p>
+</div>"
+,,,,,,Knowledge,,,"Define knowledge, skill, & ability",,Knowledge,"<h2>Define Knowledge, Skill, &amp; Ability</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about the difference between knowledge, skill, and ability and the differences between them.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Read the following text about competencies:</p>
+<p>Knowledge, Skills, and Abilities are what make up a competency. A competency can be defined at either the Knowledge (K), Skill (S), or Ability (A) level, so it is important to understand the distinct differences between each.</p>
+<p>&nbsp;</p>
+<p><strong>Knowledge -</strong>&nbsp;<span style=""font-weight: 400;"">The foundational proficiency level for a competency. It includes the capacity to define, recognize, and describe the foundational principles and concepts related to a competency.</span></p>
+<p><em><span style=""font-weight: 400;"">Example: I can explain that gravity is the invisible force that keeps us grounded.</span></em></p>
+<p>&nbsp;</p>
+<p><strong>Skill -&nbsp;</strong><span style=""font-weight: 400;"">The capacity to apply and analyze the knowledge, tools, and processes related to a competency. Someone with skill is a proficient operator and implementer of a competency.</span></p>
+<p><em><span style=""font-weight: 400;"">Example: I can perform simple calculations to determine the force with which gravity is pulling something to the earth.</span></em></p>
+<p>&nbsp;</p>
+<p><strong>Ability -</strong></p>
+<p><span style=""font-weight: 400;"">Capacity to synthesize the knowledge and skill related to a competency. Someone with ability is a leading implementer, coach and mentor, and thought leader related to the Competency.&nbsp;</span></p>
+<p><em><span style=""font-weight: 400;"">Example: I can teach others how to calculate how quickly a football will hit the ground after leaving my hand if I throw it upward at a 30&deg; angle at approximately 26 miles per hour.</span></em></p>
+<p>&nbsp;</p>
+<p><span style=""font-weight: 400;"">A competency can be required at any of these three levels, depending on the given context.</span></p>
+<h3>Review</h3>
+<p>You should now be able to explain the difference between knowledge, skill, and ability, and the implications of each in a competency-based context.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Make a list of the competencies you make use of on a daily basis. Once you have created this list, go back through it and think of the context for each. Based on the context of each, indicate whether you feel you need the knowledge, skill, or ability level of each competency.</p>
+</div>"
+,,,,Digital Credentials,Explain digital credentials.,Knowledge,,,Explain digital credentials,,Knowledge,"<h2>Explain Digital Credentials</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about digital credentials. By the end of the section, you should be able to talk about what a digital credential is, and give a high-level overview of how they work.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Read the following text about digital credentials:</p>
+<p><span style=""font-weight: 400;"">A digital credential is a standards-based, digital representation of an organization&rsquo;s competency assertion about an individual. Organizations can issue digital credentials at whatever level of granularity they see fit. However, Aspire  Ability strongly believes that digital credentials should have stand-alone value for individuals and employers when determining an individual&rsquo;s fit for a job. As such, digital credentials should generally be issued at the Competency and Competency Cluster levels.</span></p>
+<p><span style=""font-weight: 400;"">Digital Credentials can be &ldquo;stacked&rdquo; to represent relevant competency groupings. Credential issuers determine the relevance of competency groupings.&nbsp;</span></p>
+<p>Verifiable claims are the building blocks of a lot of digital credentials today. Any credential following the Open Badges standard will utilize verifiable claims. Credentials with verifiable claims allow you to show proof of your competencies.</p>
+<p><strong>Verifiable Claims -</strong> Verifiable claims are digital issuances with metadata that break down who issued the credential and what was done to achieve the credential.</p>
+<h3>Review</h3>
+<p>You should now be able to explain what a digital credential is and how it is used. If you would like more information regarding digital credentials and the open badge standard, you can get it from one of the following locations.</p>
+<ul>
+<li><a href=""http://www.imsglobal.org/understanding-digital-credentials"">Understanding Digital Credentials</a></li>
+</ul>
+<ul>
+<li><a href=""https://openbadges.org/"">Open Badges</a></li>
+</ul>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Explore sources like <a href=""badgr.com"">Badgr</a> and <a href=""credly.com"">Credly</a> to see the different ways in which digital credentials are being issued and utilized.</p>
+</div>"
+,,,,,,Knowledge,,,Explain the Learning & Employment Record,,Knowledge,"<h2>Explain the Learning &amp; Employment Record</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about the new digital credential wallet known as the Learning &amp; Employment Record (LER). You should walk away from this section with the capacity to explain to someone what the LER is, how it is used, and how it works.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Go to <a href=""https://lerhub.org/s/curators/ilr-utilities/GPRNsnPxFn3XE7Qbs"">LER Hub</a> and skim over the LER Overview information. Once you have done so, return to this page and watch the following video. Then go over the information below.</p>
+<iframe title=""YouTube video player"" src=""https://www.youtube.com/embed/N_o3TKsyvkI"" width=""560"" height=""315"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe>
+  <div>
+   <h4>What is the LER?</h4>
+<p>The LER is the up-and-coming digital wallet for digital credentials. Such credentials can be but are not limited to open badges, transcripts, certifications, etc.</p> 
+  </div>
+  <div>
+    <h4>How to use it</h4>
+<p>When using the Aspire  Ability Aspire platform, each time you demonstrate competence you will receive a digital credential. Each digital credential will automatically be uploaded to your LER. Eventually, you will be able to add any and all digital credentials you own to your LER.</p>
+    <p>When you need to show someone proof of the competencies you possess, you can pick and choose which credentials you share with a third party and what you keep private.&nbsp;</p>
+  </div>
+  <div>
+    <h4>How it works</h4>
+<p>The LER is your personal credential wallet. You have complete control of how you share your credentials. The LER will follow you through life, allowing you to build your credential portfolio at every turn.</p>
+  </div>
+<h3>Review</h3>
+<p>The Learning &amp; Employment Record is where all of your digital credentials will live. It gives you the ability to share the credentials you want with who you want when you want.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Do a mental inventory of all your digital credentials, including transcripts, degrees, certifications, etc. Now think of how many different places you would have to go to in order to access all of your credentials. Wouldn't it be so much simpler if it all lived in one place? Enter the LER...</p>
+</div>"
+,,,,Aspire Platform,Describe the Aspire platform.,Knowledge,,,Describe nearskilling,,Knowledge,"<h2>Describe Nearskilling</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn what nearskilling is and why it is important. Nearskilling is the focal point of what Aspire  Ability does, using the Aspire platform.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Read the following text about competencies:</p>
+<p>The Aspire  Ability Aspire tool is built on the idea of nearskilling. The nearskilling process is what enables learners to move forward with their current or desired job, as well as in their career as a whole. Understanding what nearskilling is will be an essential piece of knowledge as you move forward with Nearskill. Nearskilling is defined below:</p>
+<p>&nbsp;</p>
+<p><strong>Nearskilling -&nbsp;</strong>The process of acquiring the competency or competencies that provide the most immediate and substantial step forward in a desired job or career path.</p>
+<h3>Review</h3>
+<p>Nearskilling is the process that takes you from start to finish in your job and career goals. This is done by helping you acquire the competencies that are the most logical next step for you, based on your goals.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Thinking about the competencies you think you already possess and where you want to end up in your career, list out the competencies you feel you still need to obtain or improve on. Once you have your list, try to identify which competencies you should work on obtaining next based on your new understanding of nearskilling.</p>
+</div>"
+,,,,,,Knowledge,,,Explain what Aspire does,,Knowledge,"<div>
+<h2>Explain What Aspire Does</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>Aspire is a competency-based, personal development and near skilling platform. The Aspire tool enables users to grow nearer to their desired career outcomes by providing job-specific learning pathways and evidence of job-aligned competencies.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>The video below provides a brief overview of the Aspire platform. Watch the video, then make your way to the review section to wrap up what you learn.</p>
+<iframe title=""YouTube video player"" src=""https://www.youtube.com/embed/E66g5A6Sujg"" width=""343"" height=""136"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></div>
+<div id=""review-section"">
+<h3>Review</h3>
+<p>The video above showed how the Aspire  Ability Aspire platform aids you in nearskilling toward your desired job or career outcome. This is done by providing personalized, job-specific learning pathways. Once you demonstrate the required competencies for a pathway, you are awarded digital, verifiable credentials, which are then added to your personal Learning &amp; Employment Record. Each credential puts you one step closer to proving you are a qualified candidate for your desired job.</p>
+</div>
+  <div id=""call-to-action-section"">
+    <h3>
+      Call to Action
+    </h3>
+    <p>Now that you have an understanding of what Aspire is and how it works, get started with the ""Access"" competency cluster to get started with your Aspire account.</p>
+  </div>
+</div>"
+,,Aspire  Access,,Getting to the Platform,Locate the Aspire platform.,Skill,,,Navigating to NearSkill,,Skill,"<h2>Navigating to NearSkill</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn how to navigate to the Aspire platform.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Type the following URL into your internet browser: <span style=""text-decoration: underline;""><span style=""color: #3366ff; text-decoration: underline;"">nearskill.Aspire ability.com</span></span></p>
+<img src=""https://lh3.googleusercontent.com/H6lSu8pdrSmdvyzrkyFA9tRhV-EuiSqj35XVYev3_P_X9SjJ3G_iIVjpGO6tQKfLA0L39Rr7zoMWZhppRCRtabYhFFwre0avYyTnOWZEMKiBdbmhfrqzv_293u2BIAxedMBjlPGAtQ=w2400"" width=""500"" /></div>
+<div>&nbsp;</div>
+<p>You should now be able to log in, or create an account if you do not already have one.</p>
+<div id=""review-section"">
+<h3>Review</h3>
+<p>You should now be able to make your way to the Aspire platform.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Once you are ready, head over to the section about logging in and out to get started with NearSkill.</p>
+</div>"
+,,,,Login and Logout,Describe how to access the platform online.,Skill,,,Log in and out of NearSkill,,Skill,"<h2>Log In &amp; Out of NearSkill</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn how to navigate to log in and log out of the Aspire platform.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>At this point, you should be at the login page for NearSkill.</p>
+<p>To <strong>log in</strong> to the platform, enter your Aspire associated email and password. If you don't already have an account, click ""Create an Account."" If you forgot your password, click ""Forgot Password?""</p>
+<img src=""https://lh3.googleusercontent.com/pMZEmszz9dCBod3d_fX0tusz4MyxryLv8XzwTn2ZEyvgMLVF3ZHe2GiQD-6-ngZYbxxHFTyhoV2133Qtp4wbvQHtEDzIwKFBS-ji3bmNOOUbXh5D_6KwNMkaWkUMFrM5UD26sjioyA=w2400"" width=""300"" /></div>
+<div>&nbsp;</div>
+<p>Once you have entered your credentials, go ahead and hit the ""Sign In"" button. You should now have access to NearSkill.</p>
+<p>To&nbsp;<strong>log out</strong> of the platform, simply click the logo in the top right corner for mobile, or navigate to the menu bar on the left side of the screen for desktop, and select the ""Log Out"" button. This should completely sign you out of your account and return you to the login screen.</p>
+<div id=""review-section"">
+<h3>Review</h3>
+<p>You should be able to log into your Aspire account, giving you access to all of your nearskilling pathways. Additionally, you should know how to log out of your account.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>It's time to read up on how to navigate Nearskill. Head over to the navigation competencies to learn more.</p>
+</div>"
+,,Aspire  Navigation and Progress,,Navigating Aspire Pathways,Compare and Select Relevant Aspire Pathways.,Skill,,,Browsing Recommended Aspire Pathways,,Skill,"<h2>Browsing Aspire Pathways</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn how to navigate your suggested Aspire learning pathways and select the best pathway for you.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Aspire has a variety of nearskilling pathways to aid you in achieving your career goals and obtaining the competencies you need. Based on your preferences and goals, Aspire will suggest pathways it thinks will be most beneficial to your nearskilling plan.</p>
+<h4>Step 1</h4>
+<p>Browse the suggested pathway library.</p>
+<img src=""https://lh3.googleusercontent.com/t0gKE-tfwE7NE1MGckInIf-IBpH9UhBEG9Usyncohrom5dAeTNjCZzTxb_LOkqONHcQ5tcQjKUr1DGwQyBOydlcCFbZfja5UNG68gyOx5kRH11R6G-z4KfowZmn8Ff8qNL-_ChLMCA=w2400"" width=""300"" /></div>
+<div>&nbsp;</div>
+<h4>Step 2</h4>
+<p>Open up the details of pathways that interest you. Click through the specific competencies in the pathway and see what exactly it is you need to be able to do.</p>
+<p><img src=""https://lh3.googleusercontent.com/OgrFX4dZBOETPlR_3IeVCIV98D4wURv36Qej6Lk2-VqS-dBDoVsDRbXwYlfNaDkfG59RCt8t6Lr-GE_HutpKg6FCfInFIvpUd63_C5Emy3oJxMbcV_5pZZBSYg7WISS5bDcmjE0EqQ=w2400"" width=""300"" /></p>
+<div>&nbsp;</div>
+<h4>Step 3</h4>
+<p>When you find the pathway you want to engage in, click the ""Enroll In Job Pathway"" button.</p>
+<p><img src=""https://lh3.googleusercontent.com/AHRzzJWhNWEjHVBtvWOC-afv3Ig7EMw8Ez2O7gpqQfnwyKbCtmHpsPRVvCr8tz81MBEXXB1HPf68nOh3oG3ZFhIjyvedgbB8F0thcS7NM1Clc-dptuuZrBsHD1QIrLnHoXMDJwM37w=w2400"" width=""300"" /></p>
+<p>&nbsp;</p>
+<div id=""review-section"">
+<h3>Review</h3>
+<p>You should be able to browse learning pathways and enroll yourself in those pathways that best fit your career goals.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Make your way into Aspire and enroll in your first nearskilling pathway.</p>
+</div>"
+,,,,,,Skill,,,Browsing Additional Aspire Pathways,,Skill,"<h2>Browsing Aspire Pathways</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn how to navigate your additional Aspire learning pathways and select the best pathway for you.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Aspire gives you the option to enroll in as many nearskilling pathways as you want! If you want to engage in an additional pathway, follow the steps below.</p>
+<h4>Step 1</h4>
+<p>Browse the complete pathway library. You can filter pathways by job, competency, or company.</p>
+<img src=""https://lh3.googleusercontent.com/t0gKE-tfwE7NE1MGckInIf-IBpH9UhBEG9Usyncohrom5dAeTNjCZzTxb_LOkqONHcQ5tcQjKUr1DGwQyBOydlcCFbZfja5UNG68gyOx5kRH11R6G-z4KfowZmn8Ff8qNL-_ChLMCA=w2400"" width=""300"" /></div>
+<div>&nbsp;</div>
+<h4>Step 2</h4>
+<p>Open up the details of pathways that interest you. Click through the specific competencies in the pathway and see what exactly it is you need to be able to do.</p>
+<p><img src=""https://lh3.googleusercontent.com/OgrFX4dZBOETPlR_3IeVCIV98D4wURv36Qej6Lk2-VqS-dBDoVsDRbXwYlfNaDkfG59RCt8t6Lr-GE_HutpKg6FCfInFIvpUd63_C5Emy3oJxMbcV_5pZZBSYg7WISS5bDcmjE0EqQ=w2400"" width=""300"" /></p>
+<div>&nbsp;</div>
+<h4>Step 3</h4>
+<p>When you find the pathway you want to engage in, click the ""Enroll In Job Pathway"" button.</p>
+<p><img src=""https://lh3.googleusercontent.com/AHRzzJWhNWEjHVBtvWOC-afv3Ig7EMw8Ez2O7gpqQfnwyKbCtmHpsPRVvCr8tz81MBEXXB1HPf68nOh3oG3ZFhIjyvedgbB8F0thcS7NM1Clc-dptuuZrBsHD1QIrLnHoXMDJwM37w=w2400"" width=""300"" /></p>
+<p>&nbsp;</p>
+<div id=""review-section"">
+<h3>Review</h3>
+<p>You should be able to browse learning pathways and enroll yourself in those pathways that best fit your career goals.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Browse the complete pathway library and search for additional Aspire pathways you would like to engage in.</p>
+</div>"
+,,,,Navigating Competencies,Compare and contrast competencies and improve your standing.,Skill,,,Analyze Current vs Required Competencies,,Knowledge,"<h2>Analyze Current &amp; Required Competencies</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn how to analyze the way your current competency profile stacks up against the competencies required for your desired job or career goal.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Aspire shows you where you stand in relation to your competency goals. When viewing a pathway, you can see all of the required competencies for your desired outcome.</p>
+<p>On top of each competency layer, you can quickly view whether or not have demonstrated that competency. Those competencies with a checkmark have been demonstrated. Those competencies with an empty circle have not yet been demonstrated.</p>
+<img src=""https://lh3.googleusercontent.com/GbjdN4DwDkNk9LacDsLKvXtTcWD_hpl0WV2jBjUwhDoDblzYRvyLsW5tyYadC4AfbwA6vTfrz_4KiYVYq76jmV1LnXGClAa4REPfiN1CLyWyq_F8k8ep0WVr2qta037TZf7Ev5s-eQ=w2400"" width=""300"" /></div>
+<div>&nbsp;</div>
+<div id=""review-section"">
+<h3>Review</h3>
+<p>You should be able to interpret where your current competency profile stands relative to where you want to be.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Take a look at where you are in your Aspire pathway in relation to the competencies you have demonstrated and the ones you have yet to acquire.&nbsp;</p>
+</div>"
+,,,,,,Skill,,,Obtain the Competencies You're Missing,,Skill,"<h2>Obtain The Competencies Your Missing</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will gain the skills you need to use the Aspire platform to obtain the competencies you need for your desired job or career goal.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>In NearSkill, when you are looking at your progression status for a learning pathway, you can a list of competencies, all of which are clearly marked as to whether or not you have demonstrated that competency.</p>
+<p>The platform allows you to interact with each competency in order to effectively gain the competencies you still need, as well as to review past learning experiences.</p>
+<p>To access the learning activities within a specific competency, simply follow the steps below.</p>
+<h4>Step 1</h4>
+<p>Select the competency you would like to work on.</p>
+<img src=""https://lh3.googleusercontent.com/wWUdtTBJnaJH63-15PVLLwaPQhJbHQ7x4X3DcKFgtrF0UGi04cx11zZ-5hDQOLLp7IuuGYjxzRbZdSks4-03wT77NpNPHN-8jdX7UKubBUswlIAnt8trg5dbbKBVNf9wR1oT7vgO2g=w2400"" width=""300"" /></div>
+<div>&nbsp;</div>
+<h4>Step 2</h4>
+<p>You will be presented with a playlist of learning activities, each one indicating the area of focus and KSA type for that activity. Select the learning activity you would like to engage with.</p>
+<p><img src=""https://lh3.googleusercontent.com/2PmMa21bzQgoOXx-CSNRgguNzvMi-vbskZjfAkiWsOaOgeIfNLNMdAriUUlWPZMVIF9S_MFElyVd6hsWxYquL6CBkSAgnw73a2G6D0HXCRgPTWdWxDQJSupA87rinV04karWdSCg0A=w2400"" width=""300"" /></p>
+<div>&nbsp;</div>
+<h4>Step 3</h4>
+<p>At this point, you will be presented with a learning activity. Follow the instructions and utilize the resources within the activity to progress toward further competence in this area.</p>
+<p><img src=""https://lh3.googleusercontent.com/5kcGx-2OnJRK1mlIWDmVSKoqBqRer6hAx-CYgmUHGHRrddF0x_zpy5MuInK48RyyBDyt5mGFlQ-W_jLgsXIFp7-JyCFMwAhrqDiB4ATyAUNswPtbYt5_i0-Q8DC69ETiYZguuCKqyQ=w2400"" width=""300"" /></p>
+<div>&nbsp;</div>
+<div id=""review-section"">
+<h3>Review</h3>
+<p>This section walked you through the processes of Nearskilling specific competencies by engaging with KSA-specific learning activities.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Go into one of the competencies in your Aspire pathway and begin working on your first learning activity if you have not already done so.</p>
+</div>"
+,,Aspire  Assessments & Credentials,,Demonstrate Competence,Use Aspire assessments to demonstrate competence at varying proficiency levels.,Skill,,,"Demonstrate Competence at K, S, or A",,Skill,"<h2>Demonstrate Competence at K, S, or A</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will review the distinctions between knowledge, skill, and ability and how they relate to competence. By the end of this section, you should be able to identify and describe generally the attributes of the competencies in your learning pathway at the knowledge, skill, and ability levels.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Aspire competencies are broken into three different proficiency levels; Knowledge, Skill, and Ability. The attributes and definition for each can be found below.</p>
+<p><strong>Knowledge -</strong>&nbsp;<span style=""font-weight: 400;"">The foundational proficiency level for a competency. It includes the capacity to define, recognize, and describe the foundational principles and concepts related to a competency.</span></p>
+<p><em><span style=""font-weight: 400;"">Example: I can explain that gravity is the invisible force that keeps us grounded.</span></em></p>
+<p><strong>Skill -&nbsp;</strong><span style=""font-weight: 400;"">The capacity to apply and analyze the knowledge, tools, and processes related to a competency. Someone with skill is a proficient operator and implementer of a competency.</span></p>
+<p><em><span style=""font-weight: 400;"">Example: I can perform simple calculations to determine the force with which gravity is pulling something to the earth.</span></em></p>
+<p><strong>Ability - </strong><span style=""font-weight: 400;"">Capacity to synthesize the knowledge and skill related to a competency. Someone with ability is a leading implementer, coach and mentor, and thought leader related to the Competency.&nbsp;</span></p>
+<p><em><span style=""font-weight: 400;"">Example: I can teach others how to calculate how quickly a football will hit the ground after leaving my hand if I throw it upward at a 30&deg; angle at approximately 26 miles per hour.</span></em></p>
+<p>&nbsp;</p>
+<p>Aspire utilizes authentic assessment techniques and best practices to evaluate your level of proficiency with each competency in your pathway. These assessments can take place in a variety of formats, ranging from rubric-based artifact uploads to rigorous multiple-choice evaluations.</p>
+<p>&nbsp;</p>
+<img src=""https://lh3.googleusercontent.com/BRnrBxIZPUHYkAn3TcxHWRbiH2pFfmCSalt7fj1vYYfP94szd8vv11c6_NmVRR1HsXFMr9_qNjMeYxw1y91w-xKZzFgN0YunWTGNaNkKSw3eAC01e7fp4MWqWTLOoN_1QjR5HFo1OQ=w2400"" /></div>
+<h3>Review</h3>
+<div id=""review-section"">
+<p>You should now be able to identify competencies at the knowledge, skill, and ability levels.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Select a competency in your current or desired NearSkilling pathway. Try to articulate the differences between the knowledge, skill, and ability levels for that competency.</p>
+</div>"
+,,,,,,Skill,,,Remediate your KSAs,,Knowledge,"<h2>Remediate Your KSAs</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>This section breaks down the processes that take place when the minimum threshold for demonstrating competence at the K, S, or A level is not met.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>The Aspire platform is designed and built around the idea of proving competence. That being said, it is irrelevant how many times an assessment needs to be taken in order to prove said competence.</p>
+<p>In situations where competence is not proven, the learned simply reviews the assessment feedback, and returns to the learning activities specific to the necessary areas of focus for that competency.</p>
+<p><em><span style=""font-weight: 400;"">Example: Emma was trying to demonstrate her competence in data analytics, but didn't quite meet the needed criteria. In reviewing her assessment feedback, she gathered that she needed more help with calculating standard deviations of a data set. She went back into her learning pathway and reviewed the resources in the Skill learning activity for standard deviation.</span></em></p>
+<h4>Step 1</h4>
+<p>Review assessment feedback.</p>
+<p>&nbsp;</p>
+<h4>Step 2</h4>
+<p>Engage with the appropriate learning activity.</p>
+<p>&nbsp;</p>
+<h4>Step 3</h4>
+<p>Re-assess and re-demonstrate.</p>
+</div>
+<h3>Review</h3>
+<div id=""review-section"">
+<p>You should now be able to engage in the remedial process for competency nearskilling.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Identify areas of competence in your learning pathway where you could use some extra work. Go back through the learning materials and activities for the appropriate section, and see if you have a better grasp on the given competency afterward.</p>
+</div>"
+,,,,Utilizing Credentials,Evaluate & share the right credentials at the right time and in the right place.,Skill,,,Differentiating types of digital credentials,,Knowledge,"<h2>Differentiating Types of Digital Credentials</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>This section will teach you how to parse varying types of digital credentials, particularly those most likely to show up in your Learning and Employment Record.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>You are likely to encounter a hand full of different types of digital credentials throughout your career. Such credentials can be things like open badges, transcripts, and other artifacts. Below are some of the more common credentials that you are likely to encounter in your LER.</p>
+<h4>Verifiable Claims</h4>
+<p>Verifiable claims are a digital assertion of an event, status, or truth. Simply put, when a verifiable claim is issued, it creates a digital trail to the issuer and/or verifier. This allows individuals observing the contents of the credential to see why it was issued and if it came from a credible source.</p>
+<p><em>Example: Aspire  Ability issued a verifiable claim as a credential that says Emma attended the mandatory sexual harassment seminar on June 30th, 2021 at her company. This credential shows the issuer as Aspire  Ability, the assertion as attendance of the seminar, and the date of issuance.&nbsp;</em></p>
+<h4>Open Digital Badges</h4>
+<p>Open badges are a type of digital credential, often containing verifiable claims, that make an assertion about an individual. In the context of the Aspire platform, badges are assertions of your competencies containing metadata about what you did to prove that competence.</p>
+<p><em>Example: Aspire  Ability issued a badge to Emma for competence in HTML 5 at a skill level. The badge states the competency, as well as the knowledge, skill, or ability associated with that competency. It also details what Emma had to do to prove her competence in this area.</em></p>
+</div>
+<h3>Review</h3>
+<div id=""review-section"">
+<p>You should now be able to differentiate between verifiable claims and digital badges, the two most common credentials you will receive on the Aspire platform.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>If you already have a credential in your LER, take a look inside it and try to determine what kind of credential it is, based on what you have learned here.</p>
+</div>"
+,,,,,,Skill,,,Selecting & sharing credentials,,Skill,"<h2>Selecting &amp; Sharing Credentials</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn how to share credentials with others, as well as how to monitor which credentials are shared and which remain private.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>The credentials in your Learning &amp; Employment Record belong to you. As such, you have the right to share as many, or as few, of your credentials with third parties as you wish. The steps below break down the process of sharing a credential.</p>
+<div>
+<h4>Step 1</h4>
+<p>Navigate to your Learning &amp; Employment Record.</p>
+<img src=""https://lh3.googleusercontent.com/uQWLHfK4d_xTsYyFlYlVOSoZMNJQk_wzhGACgygcV9Yj_xq2NoXnBDzDXMhjsV_v7RNhz3fNDOXpmyRbCL33vfgE2clKZQP_aMlv8H2KwDZiNoa-5OdO25xez7gPb-A81bOIZ2OK9w=w2400"" /></div>
+<div>
+<h4>Step 2</h4>
+<p>Expand the credential that you would like to share.</p>
+<img src=""https://lh3.googleusercontent.com/2q26ib_23Zb6Cp1erY9_ZOXFnyz7mPZTyxPfAGyAcmGTRpzhtn27Hko41WHYuU_PQ6a0vsOEEe1MLYvwc83xfKZyhC5dZbENiKnHTiaG6yVtq65b8zgHZwKP6GsJLRbCOsbw2EeYtw=w2400"" /></div>
+<div>
+<h4>Step 3</h4>
+<p>At the bottom of the page, select the sharing option you wish to use.</p>
+<img src=""https://lh3.googleusercontent.com/O6lMnBwiWv43p8FyY1FCmh2vP6LMQKxYUQ34XFPzMcDPjGbGzffV2F9Mwpeehia2dRCvxdEUr2gDQ01osw5iPP2kXzhIg_-crpWTgeUWIWD0x7OSI6ix6Z_ibtDW471YO6nuERBFuQ=w2400"" /></div>
+</div>
+<h3>Review</h3>
+<div id=""review-section"">
+<p>You should now be able to share your credentials with others.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Go into one of your credentials, if you have one, and go through the process of sharing it with someone. *Note: You don't have to complete the sharing process if you don't want to send out your credential.</p>
+</div>"
+Software Engineer I,Competencies for a junior software engineer at Cengage,Software Design & Implementation,,Quality,Quality,Knowledge,,,Maintainability,,Skill,"<h2>Explain the Learning &amp; Employment Record</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about the new digital credential wallet known as the Learning &amp; Employment Record (LER). You should walk away from this section with the capacity to explain to someone what the LER is, how it is used, and how it works.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Go to <a href=""https://lerhub.org/s/curators/ilr-utilities/GPRNsnPxFn3XE7Qbs"">LER Hub</a> and skim over the LER Overview information. Once you have done so, return to this page and watch the following video. Then go over the information below.</p>
+<iframe title=""YouTube video player"" src=""https://www.youtube.com/embed/N_o3TKsyvkI"" width=""560"" height=""315"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe>
+  <div>
+   <h4>What is the LER?</h4>
+<p>The LER is the up-and-coming digital wallet for digital credentials. Such credentials can be but are not limited to open badges, transcripts, certifications, etc.</p> 
+  </div>
+  <div>
+    <h4>How to use it</h4>
+<p>When using the Aspire  Ability Aspire platform, each time you demonstrate competence you will receive a digital credential. Each digital credential will automatically be uploaded to your LER. Eventually, you will be able to add any and all digital credentials you own to your LER.</p>
+    <p>When you need to show someone proof of the competencies you possess, you can pick and choose which credentials you share with a third party and what you keep private.&nbsp;</p>
+  </div>
+  <div>
+    <h4>How it works</h4>
+<p>The LER is your personal credential wallet. You have complete control of how you share your credentials. The LER will follow you through life, allowing you to build your credential portfolio at every turn.</p>
+  </div>
+<h3>Review</h3>
+<p>The Learning &amp; Employment Record is where all of your digital credentials will live. It gives you the ability to share the credentials you want with who you want when you want.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Do a mental inventory of all your digital credentials, including transcripts, degrees, certifications, etc. Now think of how many different places you would have to go to in order to access all of your credentials. Wouldn't it be so much simpler if it all lived in one place? Enter the LER...</p>
+</div>"
+,,,,,,Skill,,,Code Style,,Skill,"<h2>Explain the Learning &amp; Employment Record</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about the new digital credential wallet known as the Learning &amp; Employment Record (LER). You should walk away from this section with the capacity to explain to someone what the LER is, how it is used, and how it works.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Go to <a href=""https://lerhub.org/s/curators/ilr-utilities/GPRNsnPxFn3XE7Qbs"">LER Hub</a> and skim over the LER Overview information. Once you have done so, return to this page and watch the following video. Then go over the information below.</p>
+<iframe title=""YouTube video player"" src=""https://www.youtube.com/embed/N_o3TKsyvkI"" width=""560"" height=""315"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe>
+  <div>
+   <h4>What is the LER?</h4>
+<p>The LER is the up-and-coming digital wallet for digital credentials. Such credentials can be but are not limited to open badges, transcripts, certifications, etc.</p> 
+  </div>
+  <div>
+    <h4>How to use it</h4>
+<p>When using the Aspire  Ability Aspire platform, each time you demonstrate competence you will receive a digital credential. Each digital credential will automatically be uploaded to your LER. Eventually, you will be able to add any and all digital credentials you own to your LER.</p>
+    <p>When you need to show someone proof of the competencies you possess, you can pick and choose which credentials you share with a third party and what you keep private.&nbsp;</p>
+  </div>
+  <div>
+    <h4>How it works</h4>
+<p>The LER is your personal credential wallet. You have complete control of how you share your credentials. The LER will follow you through life, allowing you to build your credential portfolio at every turn.</p>
+  </div>
+<h3>Review</h3>
+<p>The Learning &amp; Employment Record is where all of your digital credentials will live. It gives you the ability to share the credentials you want with who you want when you want.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>Do a mental inventory of all your digital credentials, including transcripts, degrees, certifications, etc. Now think of how many different places you would have to go to in order to access all of your credentials. Wouldn't it be so much simpler if it all lived in one place? Enter the LER...</p>
+</div>"
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Team Collaboration & Advice,,Project & Team Scope,Project & Team Scope,Knowledge,,,Size & number of projects,,Skill,
+,,,,,,Skill,,,Regular participation scope across teams,,Skill,
+,,,,Technical Collaboration,Technical Collaboration,Knowledge,,,Communication of deeply technical subjects,,Skill,
+,,,,,,Skill,,,Ability to disagree accurately & constructively,,Skill,
+,,,,,,Skill,,,Reaching conclusions & committing,,Skill,
+,,,,Communication & Empathy,Communication & Empathy,Skill,,,"Clear, concise communication",,Skill,
+,,,,,,Skill,,,Modifying communication based on listener's perspective,,Skill,
+,,,,,,Skill,,,Insight into listener's challenges & goals,,Skill,
+,,,,,,Skill,,,Ability to communicate technical subjects to a non-technical audience,,Skill,
+,,,,,,Skill,,,"Kindness, approachability and non-aggressive style",,Skill,
+,,Ownership & Accountability,,"Productivity, Time & Task Management","Productivity, Time & Task Management",Knowledge,,,How much they can get done,,Skill,
+,,,,,,Skill,,,Ability to accurately estimate work tasks,,Skill,
+,,,,,,Skill,,,Effective prioritization of tasks & communication,,Skill,
+,,,,,,Skill,,,Timely completion of work,,Skill,
+,,,,,,Skill,,,Full and thorough completion of all commitments,,Skill,
+,,,,Project Accountability,Project Accountability,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Autonomy & Self-Starting,Autonomy & Self-Starting,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Integrity & Ethics,,Fiscal Responsibility,Fiscal Responsibility,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Privacy & Security,Privacy & Security,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Honesty & Accuracy,Honesty & Accuracy,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Leadership,,Mentorship & Guidance,Mentorship & Guidance,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Broadcasting & Knowledge Sharing,Broadcasting & Knowledge Sharing,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Influence & Alignment,Influence & Alignment,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+Software Engineer II,Competencies for a mid-level software engineer at Cengage,Software Design & Implementation,,Quality,Quality,Knowledge,,,Maintainability,,Skill,"<h2>Define Competency</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about competencies. By the end of the section, you should be able to define what competency is and its primary components.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Read the following text about competencies:</p>
+<p>Aspire  Ability <span style=""font-weight: 400;"">defines a competency as an area of capability. While the granularity of a competency is flexible (and the subject of much debate), our rule of thumb is that a competency generally manifests as a bullet-pointed item on a job description.</span></p>
+<p>Competencies are the foundational elements of what allows a person to perform in a job or complete a task.</p>
+<p>Competencies are made up of three components: Knowledge, Skill, and Ability. Information about Knowledge, Skill, and Ability, or (KSAs), can be found in the ""Define Knowledge, Skill, &amp; Ability"" learning activity.</p>
+<h3>Review</h3>
+<p>You should now be able to define what a competency is and where it fits, particularly in relation to doing a job.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>If you have not already done so, go through the ""Define Knowledge, Skill, &amp; Ability"" learning activity to deepen your understanding of the foundational elements of a competency.</p>
+</div>"
+,,,,,,Skill,,,Code Style,,Skill,"<h2>Define Competency</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about competencies. By the end of the section, you should be able to define what competency is and its primary components.</p>
+</div>"
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Skill,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Team Collaboration & Advice,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Ownership & Accountability,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Integrity & Ethics,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Leadership,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+Software Engineer III,Competencies for a senior software engineer at Cengage,Software Design & Implementation,,Quality,Quality,Knowledge,,,Maintainability,,Skill,"<h2>Define Competency</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about competencies. By the end of the section, you should be able to define what competency is and its primary components.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Read the following text about competencies:</p>
+<p>Aspire  Ability <span style=""font-weight: 400;"">defines a competency as an area of capability. While the granularity of a competency is flexible (and the subject of much debate), our rule of thumb is that a competency generally manifests as a bullet-pointed item on a job description.</span></p>
+<p>Competencies are the foundational elements of what allows a person to perform in a job or complete a task.</p>
+<p>Competencies are made up of three components: Knowledge, Skill, and Ability. Information about Knowledge, Skill, and Ability, or (KSAs), can be found in the ""Define Knowledge, Skill, &amp; Ability"" learning activity.</p>
+<h3>Review</h3>
+<p>You should now be able to define what a competency is and where it fits, particularly in relation to doing a job.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>If you have not already done so, go through the ""Define Knowledge, Skill, &amp; Ability"" learning activity to deepen your understanding of the foundational elements of a competency.</p>
+</div>"
+,,,,,,Skill,,,Code Style,,Skill,"<h2>Define Competency</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about competencies. By the end of the section, you should be able to define what competency is and its primary components.</p>
+</div>"
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Ability,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Team Collaboration & Advice,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Ownership & Accountability,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Integrity & Ethics,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Leadership,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+Staff Software Engineer,Competencies for a staff software engineer at Cengage,Software Design & Implementation,,Quality,Quality,Knowledge,,,Maintainability,,Skill,"<h2>Define Competency</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about competencies. By the end of the section, you should be able to define what competency is and its primary components.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Read the following text about competencies:</p>
+<p>Aspire  Ability <span style=""font-weight: 400;"">defines a competency as an area of capability. While the granularity of a competency is flexible (and the subject of much debate), our rule of thumb is that a competency generally manifests as a bullet-pointed item on a job description.</span></p>
+<p>Competencies are the foundational elements of what allows a person to perform in a job or complete a task.</p>
+<p>Competencies are made up of three components: Knowledge, Skill, and Ability. Information about Knowledge, Skill, and Ability, or (KSAs), can be found in the ""Define Knowledge, Skill, &amp; Ability"" learning activity.</p>
+<h3>Review</h3>
+<p>You should now be able to define what a competency is and where it fits, particularly in relation to doing a job.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>If you have not already done so, go through the ""Define Knowledge, Skill, &amp; Ability"" learning activity to deepen your understanding of the foundational elements of a competency.</p>
+</div>"
+,,,,,,Skill,,,Code Style,,Skill,"<h2>Define Competency</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about competencies. By the end of the section, you should be able to define what competency is and its primary components.</p>
+</div>"
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Team Collaboration & Advice,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Ownership & Accountability,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Integrity & Ethics,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Leadership,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+Principal Software Engineer,Competencies for a principal software engineer at Cengage,Software Design & Implementation,,Quality,Quality,Knowledge,,,Maintainability,,Skill,"<h2>Define Competency</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about competencies. By the end of the section, you should be able to define what competency is and its primary components.</p>
+</div>
+<div id=""instructions-section"">
+<h3>Instructions</h3>
+<p>Read the following text about competencies:</p>
+<p>Aspire  Ability <span style=""font-weight: 400;"">defines a competency as an area of capability. While the granularity of a competency is flexible (and the subject of much debate), our rule of thumb is that a competency generally manifests as a bullet-pointed item on a job description.</span></p>
+<p>Competencies are the foundational elements of what allows a person to perform in a job or complete a task.</p>
+<p>Competencies are made up of three components: Knowledge, Skill, and Ability. Information about Knowledge, Skill, and Ability, or (KSAs), can be found in the ""Define Knowledge, Skill, &amp; Ability"" learning activity.</p>
+<h3>Review</h3>
+<p>You should now be able to define what a competency is and where it fits, particularly in relation to doing a job.</p>
+</div>
+<div id=""call-to-action-section"">
+<h3>Call to Action</h3>
+<p>If you have not already done so, go through the ""Define Knowledge, Skill, &amp; Ability"" learning activity to deepen your understanding of the foundational elements of a competency.</p>
+</div>"
+,,,,,,Skill,,,Code Style,,Skill,"<h2>Define Competency</h2>
+<div id=""introduction-section"">
+<h3>Introduction</h3>
+<p>In this section, you will learn about competencies. By the end of the section, you should be able to define what competency is and its primary components.</p>
+</div>"
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Team Collaboration & Advice,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Ownership & Accountability,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Integrity & Ethics,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,
+,,Leadership,,Quality,Quality,Knowledge,,,Maintainability,,Skill,
+,,,,,,Skill,,,Code Style,,Skill,
+,,,,,,Skill,,,Documentation,,Skill,
+,,,,,,Skill,,,Automated testing,,Skill,
+,,,,,,Skill,,,Ease of integration,,Skill,
+,,,,Architecture,Architecture,Knowledge,,,Composition & decoupling,,Skill,
+,,,,,,Skill,,,Code interface design,,Skill,
+,,,,,,Skill,,,Technical debt,,Skill,
+,,,,,,Skill,,,Data locality,,Skill,
+,,,,,,Skill,,,Data formats,,Skill,
+,,,,Running Systems,Running Systems,Skill,,,Logging & metrics,,Skill,
+,,,,,,Skill,,,Profiling & debugging,,Skill,
+,,,,,,Skill,,,Monitoring & alerting,,Skill,
+,,,,,,Skill,,,Failsafe design,,Skill,
+,,,,,,Skill,,,Live production spelunking,,Skill,

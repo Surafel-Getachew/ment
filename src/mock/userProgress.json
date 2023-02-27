@@ -1,0 +1,380 @@
+[
+  {
+    "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+    "pathwayId": "a023d701-b87e-409c-ac12-974263b262a5",
+    "userCompetencies": [
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "edf1eb0f-fba0-4c5d-a68b-5e8bce59e419",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "50c4d34b-e10d-401e-bd9d-882c6a56f42c",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "27896a10-93d0-4d3c-a265-61a1eae147a4"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "ab237717-5d22-450a-805f-bd55e4d86d58"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "eaa0aa76-409d-4585-9386-25a9d5c8d2a7"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "a7e3cc35-9221-4a24-b202-c57859e631a0"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "caba31af-0784-4c79-b49a-9be861e03322"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "0309c68f-8e41-472b-9ac9-a15b555c958a"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "9d117f5d-6fa6-49b9-98d4-c0bf4ea01d52",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "462aedd0-32e7-48b1-908f-ca91cb16b6d6",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "0e381fc0-0275-4c2e-935c-4eabb918577a"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "43193fda-4f58-4086-b025-57ff9cea3282"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "cdcc520c-c903-4b52-b8ab-c5b1a033c32d"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "a3dd617f-a0be-444a-926a-14015eddc5ae"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "4c03eb55-20b5-49c1-99f4-601f72c9d2d5",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "913115a7-8bd9-45c3-995c-93e3676de3df",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "f64a40a0-83fd-4be1-ab8d-c82b3c908e4d",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "80956e91-a86c-4c7e-aef2-094ac316d3ea",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "99d3145f-dec0-4aac-a8a0-b25953248340"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "8edfaae5-5fae-497c-bfea-a2d5a72d45e9",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "541a3964-db4d-4e4c-a248-a7b4234bac90",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "585ff68e-91e8-46f3-87ae-3b4062965298"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "5c77b44e-4300-4f91-975b-f55c5240fb2f",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "8878ad38-92bb-49fe-bcce-8d07a949d5ee",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "688ce041-77b7-4f0f-9112-a0f3775b09dc",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "fc43b344-6162-4d0f-8134-dc238dbec04b"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "006c24c0-8216-4496-868c-a4c3ef799448",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "086e39ad-46c9-496e-9eb4-adeacc3e1cfe"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "1e903f32-e9bb-42f9-8a91-d06e5e5f9b31"
+      }
+    ]
+  },
+  {
+    "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+    "pathwayId": "dcce7e3c-a17d-465a-86fc-1097235d0b58",
+    "userCompetencies": [
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "2d3fbf17-c41d-4891-a813-296505b41a40"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "c4e01927-8800-4f26-92ed-011c6d09a212"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "9368ed00-8a8c-43dc-856b-55ad3ec3c86e"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "b9af3bec-9522-40f5-a971-03556757860f",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "018fb083-bd96-4e0d-b418-c0f63f595489",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "f12ecfca-3d54-4cf7-a67f-a43f478d7bb0"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "76271fa6-1016-43a2-aa1b-accef81b40d9"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "952e41da-5528-47a0-b546-5ca1316c838e",
+        "completedAt": "2021-09-11T22:38:41.273Z"
+      },
+      {
+        "userId": "c98a8016-aecc-412e-a2be-9db55fd81e17",
+        "competencyId": "1d19a595-f6cb-4006-8947-a724828a69ad"
+      }
+    ]
+  },
+  {
+    "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+    "pathwayId": "a023d701-b87e-409c-ac12-974263b262a5",
+    "userCompetencies": [
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "edf1eb0f-fba0-4c5d-a68b-5e8bce59e419",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "50c4d34b-e10d-401e-bd9d-882c6a56f42c",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "27896a10-93d0-4d3c-a265-61a1eae147a4",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "ab237717-5d22-450a-805f-bd55e4d86d58",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "eaa0aa76-409d-4585-9386-25a9d5c8d2a7",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "a7e3cc35-9221-4a24-b202-c57859e631a0",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "caba31af-0784-4c79-b49a-9be861e03322",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "0309c68f-8e41-472b-9ac9-a15b555c958a",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "9d117f5d-6fa6-49b9-98d4-c0bf4ea01d52",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "462aedd0-32e7-48b1-908f-ca91cb16b6d6",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "0e381fc0-0275-4c2e-935c-4eabb918577a",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "43193fda-4f58-4086-b025-57ff9cea3282",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "cdcc520c-c903-4b52-b8ab-c5b1a033c32d",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "a3dd617f-a0be-444a-926a-14015eddc5ae",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "4c03eb55-20b5-49c1-99f4-601f72c9d2d5",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "913115a7-8bd9-45c3-995c-93e3676de3df",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "f64a40a0-83fd-4be1-ab8d-c82b3c908e4d",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "80956e91-a86c-4c7e-aef2-094ac316d3ea",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "99d3145f-dec0-4aac-a8a0-b25953248340",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "8edfaae5-5fae-497c-bfea-a2d5a72d45e9",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "541a3964-db4d-4e4c-a248-a7b4234bac90",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "585ff68e-91e8-46f3-87ae-3b4062965298",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "5c77b44e-4300-4f91-975b-f55c5240fb2f",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "8878ad38-92bb-49fe-bcce-8d07a949d5ee",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "688ce041-77b7-4f0f-9112-a0f3775b09dc",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "fc43b344-6162-4d0f-8134-dc238dbec04b",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "006c24c0-8216-4496-868c-a4c3ef799448",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "086e39ad-46c9-496e-9eb4-adeacc3e1cfe",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "1e903f32-e9bb-42f9-8a91-d06e5e5f9b31",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      }
+    ]
+  },
+  {
+    "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+    "pathwayId": "dcce7e3c-a17d-465a-86fc-1097235d0b58",
+    "userCompetencies": [
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "2d3fbf17-c41d-4891-a813-296505b41a40"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "c4e01927-8800-4f26-92ed-011c6d09a212",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "9368ed00-8a8c-43dc-856b-55ad3ec3c86e"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "b9af3bec-9522-40f5-a971-03556757860f"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "018fb083-bd96-4e0d-b418-c0f63f595489",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "f12ecfca-3d54-4cf7-a67f-a43f478d7bb0"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "76271fa6-1016-43a2-aa1b-accef81b40d9",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "952e41da-5528-47a0-b546-5ca1316c838e",
+        "completedAt": "2021-09-11T22:38:41.274Z"
+      },
+      {
+        "userId": "fb768ec2-1754-4a3b-be76-4a096b7fecfc",
+        "competencyId": "1d19a595-f6cb-4006-8947-a724828a69ad"
+      }
+    ]
+  }
+]
